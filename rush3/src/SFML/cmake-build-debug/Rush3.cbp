@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Rush3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\SFGraphing\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\lib64\;CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\;CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rush3">
+				<Option output="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Rush3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rush3"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rush3/fast">
+				<Option output="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Rush3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rush3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFGraphing">
+				<Option output="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/libSFGraphing.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 SFGraphing"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFGraphing/fast">
+				<Option output="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/libSFGraphing.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 SFGraphing/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/rush3/src/SFML/cmake-build-debug/SFGraphing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/main.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/mainNOT.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/CpuMhzInfo.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/CpuMhzInfo.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/CpuPercentage.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/CpuPercentage.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/Displays.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/Displays.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/NetworkData.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/NetworkData.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/RamInfos.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/RamInfos.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/MonitorDisplay.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/MonitorDisplay.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/MonitorModule.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/MonitorModule.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/PieChartDataSet.cpp">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/PieChartDataSet.h">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/PlotDataSet.cpp">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/PlotDataSet.h">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/SFPieChart.cpp">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/SFPieChart.h">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/SFPlot.cpp">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/SFPlot.h">
+			<Option target="SFGraphing"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/main.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SwapInfos.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SwapInfos.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/User.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/User.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/getSystemData/SystemGetter.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/getSystemData/SystemGetter.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/graphical/ncurses/mainWindow.cpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/graphical/ncurses/mainWindow.hpp">
+			<Option target="Rush3"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/SFGraphing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\SFGraphing\"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/../../../../../../../usr/lib64/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/../../../../../../../usr/lib64/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/../../../../../../../usr/lib64/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/../../../../../../../usr/lib64/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/rush3/src/SFML/../../../../../../../usr/lib64/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib64\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

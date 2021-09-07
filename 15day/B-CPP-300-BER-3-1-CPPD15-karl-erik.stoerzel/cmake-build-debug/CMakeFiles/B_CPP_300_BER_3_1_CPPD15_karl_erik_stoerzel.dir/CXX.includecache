@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/tek2/15day/B-CPP-300-BER-3-1-CPPD15-karl-erik.stoerzel/ex05/ex05.hpp
+iostream
+-
+
+/home/CookiieZ/Epitech/tek2/15day/B-CPP-300-BER-3-1-CPPD15-karl-erik.stoerzel/main.cpp
+ex05/ex05.hpp
+/home/CookiieZ/Epitech/tek2/15day/B-CPP-300-BER-3-1-CPPD15-karl-erik.stoerzel/ex05/ex05.hpp
+

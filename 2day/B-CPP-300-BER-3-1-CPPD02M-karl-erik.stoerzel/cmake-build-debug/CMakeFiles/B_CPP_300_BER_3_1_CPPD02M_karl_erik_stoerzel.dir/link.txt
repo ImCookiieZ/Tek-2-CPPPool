@@ -1,0 +1,1 @@
+/bin/gcc -g   CMakeFiles/B_CPP_300_BER_3_1_CPPD02M_karl_erik_stoerzel.dir/ex05/ptr_tricks.c.o  -o B_CPP_300_BER_3_1_CPPD02M_karl_erik_stoerzel 

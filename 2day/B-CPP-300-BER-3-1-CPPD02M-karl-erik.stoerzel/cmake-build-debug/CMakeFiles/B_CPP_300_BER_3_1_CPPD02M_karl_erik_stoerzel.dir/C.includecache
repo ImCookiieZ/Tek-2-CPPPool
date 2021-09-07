@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/tek2/2day/B-CPP-300-BER-3-1-CPPD02M-karl-erik.stoerzel/ex01/mem_ptr.c
+mem_ptr.h
+/home/CookiieZ/Epitech/tek2/2day/B-CPP-300-BER-3-1-CPPD02M-karl-erik.stoerzel/ex01/mem_ptr.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/CookiieZ/Epitech/tek2/2day/B-CPP-300-BER-3-1-CPPD02M-karl-erik.stoerzel/ex01/mem_ptr.h
+
+/home/CookiieZ/Epitech/tek2/2day/B-CPP-300-BER-3-1-CPPD02M-karl-erik.stoerzel/ex02/tab_to_2dtab.c
+stdio.h
+-
+stdlib.h
+-
+

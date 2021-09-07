@@ -1,0 +1,19 @@
+/*
+** EPITECH PROJECT, 2019
+** FILE_NAME
+** File description:
+** FILE DESCRIPTION
+*/
+
+#ifndef B_CPP_300_BER_3_1_CPPRUSH2_KARL_ERIK_STOERZEL_GIFTPAPER_HPP
+#define B_CPP_300_BER_3_1_CPPRUSH2_KARL_ERIK_STOERZEL_GIFTPAPER_HPP
+
+#include "Wrap.hpp"
+
+class GiftPaper : public Wrap
+{
+public:
+    GiftPaper();
+};
+
+#endif //B_CPP_300_BER_3_1_CPPRUSH2_KARL_ERIK_STOERZEL_GIFTPAPER_HPP

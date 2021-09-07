@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel">
+				<Option output="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel/fast">
+				<Option output="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex02/AssaultTerminator.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex02/AssaultTerminator.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex02/Squad.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex02/Squad.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex02/TacticalMarine.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex02/TacticalMarine.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/AMateria.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/AMateria.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/Character.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/Character.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/Cure.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/Cure.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/Ice.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/Ice.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/MateriaSource.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex03/MateriaSource.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/AsteroKreog.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/AsteroKreog.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/DeepCoreMiner.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/DeepCoreMiner.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/IAsteroid.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/KoalaSteroid.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/KoalaSteroid.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/MiningBarge.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/MiningBarge.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/StripMiner.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/ex04/StripMiner.hpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/main.cpp">
+			<Option target="B_CPP_300_BER_3_1_CPPD10_karl_erik_stoerzel"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/10dir/B-CPP-300-BER-3-1-CPPD10-karl-erik.stoerzel/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

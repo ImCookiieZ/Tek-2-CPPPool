@@ -1,0 +1,2 @@
+/bin/ar qc libSFGraphing.a  CMakeFiles/SFGraphing.dir/PlotDataSet.cpp.o CMakeFiles/SFGraphing.dir/SFPlot.cpp.o CMakeFiles/SFGraphing.dir/PieChartDataSet.cpp.o CMakeFiles/SFGraphing.dir/SFPieChart.cpp.o
+/bin/ranlib libSFGraphing.a

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/Cesar.hpp
+IEncryptionMethod.hpp
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/IEncryptionMethod.hpp
+iostream
+-
+
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/Encryption.cpp
+Encryption.hpp
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/Encryption.hpp
+
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/Encryption.hpp
+Cesar.hpp
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/Cesar.hpp
+OneTime.hpp
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/OneTime.hpp
+algorithm
+-
+
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/IEncryptionMethod.hpp
+
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/OneTime.hpp
+IEncryptionMethod.hpp
+/home/CookiieZ/Epitech/tek2/17day/B-CPP-300-BER-3-1-CPPD17-karl-erik.stoerzel/ex03/IEncryptionMethod.hpp
+iostream
+-
+utility
+-
+
